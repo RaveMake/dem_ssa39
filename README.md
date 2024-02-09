@@ -5,4 +5,4 @@
 документации.
 
 # Описание задания
-
+![image](https://github.com/RaveMake/dem_ssa39/blob/main/images/L3.png)
